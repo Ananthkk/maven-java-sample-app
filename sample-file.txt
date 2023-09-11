@@ -8,6 +8,10 @@ added 4.1 line
 
 this line for issueFix  branch
 
+<<<<<<< HEAD
 added file for master fix
 
 added line during rebase scenario
+=======
+for fixissue
+>>>>>>> 305fb20 (adding files in fix123 branch)
