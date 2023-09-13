@@ -9,9 +9,13 @@ for rebase scenario in branch
 this line for issueFix  branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 added file for master fix
 
 added line during rebase scenario
 =======
 for fixissue
 >>>>>>> 305fb20 (adding files in fix123 branch)
+=======
+for fixissue
+>>>>>>> 4a217ce5ba243e4b35981e501d020949e042c615
